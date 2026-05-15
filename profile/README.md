@@ -1,6 +1,6 @@
-# BeeBird Labs
+# Beebird Labs
 
-BeeBird Labs is mostly focused on JDM electronics and related tooling, with an occasional venture in other IoT related projects. 
+Beebird Labs is mostly focused on JDM electronics and related tooling, with an occasional venture in other IoT related projects. 
 
 ## Public now
 
